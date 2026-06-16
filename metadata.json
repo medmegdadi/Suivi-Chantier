@@ -1,0 +1,6 @@
+{
+  "name": "Suivi Chantier CHU",
+  "description": "Système digital pour le suivi chantier du CHU Dakhla. Analyse automatique des rapports Dalux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
